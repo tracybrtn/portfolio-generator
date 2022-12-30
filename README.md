@@ -17,7 +17,7 @@ Node.js command-line application that captures user input via Inquirer to genera
 
 ## Installation
 
-1. Make sure you have `node.js` and `MySQL` installed in your local machine.
+1. Make sure you have `node.js` installed in your local machine.
 2. Clone this repo or download the code. Open it with vscode
 3. From your terminal run command npm i
 
